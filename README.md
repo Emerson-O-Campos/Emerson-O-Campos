@@ -49,14 +49,6 @@ Atualmente estou focado no aprendizado de **HTML, CSS e JavaScript**, com o obje
 
 ---
 
-## 📊 GitHub Stats
-
-![Emerson GitHub stats](https://github-readme-stats.vercel.app/api?username=Emerson-O-Campos&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson-O-Campos&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Vamos nos conectar?
 
 ![GitHub](https://img.shields.io/badge/GitHub-Emerson--O--Campos-black?style=for-the-badge&logo=github)
