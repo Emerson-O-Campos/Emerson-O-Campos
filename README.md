@@ -70,8 +70,8 @@ Sistema voltado ao cuidado e organização de informações sobre pets, desenvol
   </a>
 </p>
 
-📞 Telefone: (19) 98715-5840
-📍 Indaiatuba - SP 
+📍 São Paulo - SP  
+📞 Telefone: (19) 98715-5840  
 💬 Aberto a oportunidades, colaboração e networking  
 
 ---
