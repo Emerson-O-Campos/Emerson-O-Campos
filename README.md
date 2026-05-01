@@ -1,65 +1,90 @@
-# 👋 Olá! Eu sou o Emerson Campos
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Emerson%20Campos&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-![Idade](https://img.shields.io/badge/Idade-29-blue?style=for-the-badge)
-![Localização](https://img.shields.io/badge/Local-São%20Paulo%20-%20SP-brightgreen?style=for-the-badge)
-![Formação](https://img.shields.io/badge/Engenharia%20da%20Computação-UniVesp-purple?style=for-the-badge)
-![Status](https://img.shields.io/badge/UniVesp-2023%20--%20Atual-orange?style=for-the-badge)
+<h3 align="center">💻 Estudante de Engenharia da Computação | Futuro Desenvolvedor Full Stack</h3>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou estudante de **Engenharia da Computação** na :contentReference[oaicite:0]{index=0}, com início em 2023.
+Sou estudante de Engenharia da Computação na :contentReference[oaicite:0]{index=0} desde 2023, com foco em desenvolvimento de software e construção de projetos web.
 
-Sou apaixonado por tecnologia e estou em constante evolução, buscando aprender e aplicar novos conhecimentos em cada projeto desenvolvido.
-
-Atualmente, estou focado no desenvolvimento web com **HTML, CSS e JavaScript**, com o objetivo de construir uma base sólida e evoluir para projetos mais avançados na área de programação.
+Tenho interesse em desenvolvimento **Front-End**, lógica de programação e boas práticas de código. Estou em constante evolução, aplicando meus conhecimentos em projetos práticos para consolidar minha formação.
 
 ---
 
-## 🛠️ Tecnologias em estudo
+## 🧠 Tecnologias que utilizo
 
+### Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📚 Formação
+## 📊 GitHub Stats
 
-🎓 **Engenharia da Computação** — UniVESP *(2023 - atual)*  
-📘 Ensino Médio completo  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Emerson-O-Campos&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson-O-Campos&layout=compact&theme=tokyonight" height="180em"/>
+</p>
+
+---
+
+## 🚀 Projetos em destaque
+
+### 📌 JRC Divulgação
+Sistema simples para organização e divulgação de conteúdos.
+
+🔗 Repositório: https://github.com/Emerson-O-Campos/jrc-divulga-o  
+🛠 Tecnologias: HTML, CSS, JavaScript  
+
+---
+
+### 📌 Portfólio Pessoal
+Meu site pessoal com apresentação de projetos e habilidades.
+
+🔗 Em desenvolvimento...  
+🛠 Tecnologias: HTML, CSS, JavaScript  
+
+---
+
+## 🎯 Objetivos
+
+- Evoluir como desenvolvedor Front-End  
+- Criar projetos reais para portfólio  
+- Aprimorar lógica de programação  
+- Aprender frameworks modernos (React futuramente)  
+- Seguir boas práticas de desenvolvimento  
 
 ---
 
 ## 🌍 Idiomas
 
-![Português](https://img.shields.io/badge/Português-Nativo-success?style=for-the-badge)
-![Inglês](https://img.shields.io/badge/Inglês-Básico%20(A2--B1)-blue?style=for-the-badge)
+- 🇧🇷 Português — Nativo  
+- 🇺🇸 Inglês — Básico (em evolução)
 
 ---
 
-## 🎯 Objetivos atuais
+## 📫 Contato
 
-- Desenvolver projetos práticos para portfólio  
-- Evoluir em desenvolvimento web  
-- Aprimorar lógica de programação  
-- Aprender boas práticas e organização de código  
-- Evoluir continuamente como desenvolvedor  
-
----
-
-## 📫 Contato e networking
-
-![GitHub](https://img.shields.io/badge/GitHub-Emerson--O--Campos-black?style=for-the-badge&logo=github)
+<p align="left">
+  <a href="https://github.com/Emerson-O-Campos">
+    <img src="https://img.shields.io/badge/GitHub-Emerson--O--Campos-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 📍 São Paulo - SP  
-💬 Aberto a networking, colaboração em projetos e aprendizado contínuo  
-
-🔗 GitHub: https://github.com/Emerson-O-Campos  
+💬 Aberto para colaboração, aprendizado e networking  
 
 ---
 
-> ⭐ *"Aprender a programar é aprender a pensar de forma melhor a cada linha de código."*
+## ⚡ Filosofia
+
+> “Código limpo hoje, menos problemas amanhã.”
