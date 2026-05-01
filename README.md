@@ -28,29 +28,12 @@ Tenho interesse em desenvolvimento **Front-End**, lógica de programação e boa
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Projeto em destaque
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emerson-O-Campos&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson-O-Campos&layout=compact&theme=tokyonight" height="180em"/>
-</p>
+### 🐾 Pet Love Care
+Plataforma voltada ao cuidado e bem-estar de pets, com foco em organização de informações e suporte ao usuário.
 
----
-
-## 🚀 Projetos em destaque
-
-### 📌 JRC Divulgação
-Sistema simples para organização e divulgação de conteúdos.
-
-🔗 Repositório: https://github.com/Emerson-O-Campos/jrc-divulga-o  
-🛠 Tecnologias: HTML, CSS, JavaScript  
-
----
-
-### 📌 Portfólio Pessoal
-Meu site pessoal com apresentação de projetos e habilidades.
-
-🔗 Em desenvolvimento...  
+🔗 Repositório: https://github.com/Emerson-O-Campos/pet-love-care  
 🛠 Tecnologias: HTML, CSS, JavaScript  
 
 ---
