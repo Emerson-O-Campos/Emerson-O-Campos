@@ -62,7 +62,7 @@ Meu objetivo é crescer na área de tecnologia, construir uma base sólida em de
 📍 São Paulo - SP  
 💬 Aberto para networking, aprendizado e colaboração em projetos
 
-- GitHub: [github.com/SEU_USUARIO_AQUI](https://github.com/SEU_USUARIO_AQUI)
+- GitHub: [github.com/Emerson-O-Campos](https://github.com/Emerson-O-Campos)
 
 ---
 
