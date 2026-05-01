@@ -13,7 +13,7 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de Engenharia da Computação na :contentReference[oaicite:0]{index=0} desde 2023.
+Sou estudante de Engenharia da Computação na Univesp desde 2023.
 
 Atualmente foco no desenvolvimento **Front-End**, aplicando conhecimentos em projetos práticos com HTML, CSS e JavaScript.
 
@@ -70,7 +70,8 @@ Sistema voltado ao cuidado e organização de informações sobre pets, desenvol
   </a>
 </p>
 
-📍 São Paulo - SP  
+📞 Telefone: (19) 98715-5840
+📍 Indaiatuba - SP 
 💬 Aberto a oportunidades, colaboração e networking  
 
 ---
