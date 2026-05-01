@@ -9,7 +9,7 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de Engenharia da Computação na :contentReference[oaicite:0]{index=0} desde 2023, com foco em desenvolvimento de software e construção de projetos web.
+Sou estudante de Engenharia da Computação na Univesp desde 2023, com foco em desenvolvimento de software e construção de projetos web.
 
 Tenho interesse em desenvolvimento **Front-End**, lógica de programação e boas práticas de código. Estou em constante evolução, aplicando meus conhecimentos em projetos práticos para consolidar minha formação.
 
