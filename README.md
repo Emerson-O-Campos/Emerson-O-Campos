@@ -79,12 +79,12 @@ Olá! 👋 Sou **Emerson Campos**, estudante de **Engenharia da Computação na 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emerson-O-Campos&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff7a00&icon_color=ff7a00" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson-O-Campos&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff7a00" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emerson-O-Campos&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff7a00&icon_color=ff7a00">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson-O-Campos&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff7a00">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emerson-O-Campos&theme=dark&hide_border=true&background=0d1117&stroke=ff7a00&ring=ff7a00&fire=ff7a00&currStreakLabel=ff7a00" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emerson-O-Campos&theme=dark&hide_border=true&background=0d1117&stroke=ff7a00&ring=ff7a00&fire=ff7a00&currStreakLabel=ff7a00">
 </p>
 
 ---
