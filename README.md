@@ -45,7 +45,7 @@ Olá! 👋 Sou **Emerson Campos**, estudante de **Engenharia da Computação na 
 
 | 🐾 Pet Love Care | 🚀 Portfólio Pessoal |
 |----------------|---------------------|
-| <img src="https://via.placeholder.com/400x200/FF7A00/FFFFFF?text=Pet+Love+Care" width="400"> | <img src="https://via.placeholder.com/400x200/0f2027/00FF88?text=Portf%C3%B3lio" width="400"> |
+| <img src="emerson-o-campos.github.io_pet-love-care_" width="400"> | <img src="emerson-o-campos.github.io_pet-love-care_" width="400"> |
 | Plataforma de agendamento para pet sitter com foco em usabilidade e responsividade. | Portfólio moderno com design inspirado em neon e minimalismo. |
 | 🔗 [Repositório](https://github.com/Emerson-O-Campos/pet-love-care) • [Demo](https://emerson-o-campos.github.io/pet-love-care/) | 🔗 [Repositório](https://github.com/Emerson-O-Campos/portifolio) • [Demo](https://emerson-o-campos.github.io/portifolio/) |
 
