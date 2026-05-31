@@ -43,17 +43,36 @@ Olá! 👋 Sou **Emerson Campos**, estudante de **Engenharia da Computação na 
 
 ## 📂 Projetos em destaque
 
-| 🐾 Pet Love Care | 🚀 Portfólio Pessoal |
-|:----------------:|:--------------------:|
-| <img src="img/emerson-o-campos.github.io_pet-love-care_.png" width="380" alt="Pet Love Care"> | <img src="img/emerson-o-campos.github.io_portifolio_.png" width="380" alt="Portfólio"> |
-| Plataforma de agendamento para pet sitter com foco em usabilidade e responsividade. | Portfólio moderno com design inspirado em neon e minimalismo. |
-| 🔗 [Repositório](https://github.com/Emerson-O-Campos/pet-love-care) • [Demo](https://emerson-o-campos.github.io/pet-love-care/) | 🔗 [Repositório](https://github.com/Emerson-O-Campos/portifolio) • [Demo](https://emerson-o-campos.github.io/portifolio/) |
-
-| 📢 JRC Divulgação | ⚡ Eletubos |
-|:-----------------:|:-----------:|
-| <img src="img/emerson-o-campos.github.io_jrc-divulgacao_.png" width="380" alt="JRC Divulgação"> | <img src="img/emerson-o-campos.github.io_eletubos_.png" width="380" alt="Eletubos"> |
-| Site para serviços de divulgação de som, fortalecendo presença online. | Redesign do site institucional com foco em modernização visual. |
-| 🔗 [Repositório](https://github.com/Emerson-O-Campos/jrc-divulgacao) • [Demo](https://emerson-o-campos.github.io/jrc-divulgacao/) | 🔗 [Repositório](https://github.com/Emerson-O-Campos/eletubos) • [Demo](https://emerson-o-campos.github.io/eletubos/) |
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🐾 Pet Love Care</h3>
+      <img src="img/emerson-o-campos.github.io_pet-love-care_.png" width="90%">
+      <p>Plataforma de agendamento para pet sitter com foco em usabilidade e responsividade.</p>
+      <p>🔗 <a href="https://github.com/Emerson-O-Campos/pet-love-care">Repositório</a> • <a href="https://emerson-o-campos.github.io/pet-love-care/">Demo</a></p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🚀 Portfólio Pessoal</h3>
+      <img src="img/emerson-o-campos.github.io_portifolio_.png" width="90%">
+      <p>Portfólio moderno com design inspirado em neon e minimalismo.</p>
+      <p>🔗 <a href="https://github.com/Emerson-O-Campos/portifolio">Repositório</a> • <a href="https://emerson-o-campos.github.io/portifolio/">Demo</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>📢 JRC Divulgação</h3>
+      <img src="img/emerson-o-campos.github.io_jrc-divulgacao_.png" width="90%">
+      <p>Site para serviços de divulgação de som, fortalecendo presença online.</p>
+      <p>🔗 <a href="https://github.com/Emerson-O-Campos/jrc-divulgacao">Repositório</a> • <a href="https://emerson-o-campos.github.io/jrc-divulgacao/">Demo</a></p>
+    </td>
+    <td align="center" width="50%">
+      <h3>⚡ Eletubos</h3>
+      <img src="img/emerson-o-campos.github.io_eletubos_.png" width="90%">
+      <p>Redesign do site institucional com foco em modernização visual.</p>
+      <p>🔗 <a href="https://github.com/Emerson-O-Campos/eletubos">Repositório</a> • <a href="https://emerson-o-campos.github.io/eletubos/">Demo</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
