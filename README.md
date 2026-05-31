@@ -79,7 +79,7 @@ Olá! 👋 Sou **Emerson Campos**, estudante de **Engenharia da Computação na 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://card.shiina.xyz/card/Emerson-O-Campos?theme=github_dark&hide_border=true">
+  <img src="https://card.shiina.xyz/card/Emerson-O-Campos?theme=green&hide_border=true">
 </p>
 
 ---
