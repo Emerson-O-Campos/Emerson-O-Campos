@@ -45,28 +45,15 @@ Olá! 👋 Sou **Emerson Campos**, estudante de **Engenharia da Computação na 
 
 | 🐾 Pet Love Care | 🚀 Portfólio Pessoal |
 |----------------|---------------------|
-| <img src="emerson-o-campos.github.io_pet-love-care_" width="400"> | <img src="emerson-o-campos.github.io_pet-love-care_" width="400"> |
+| <img src="img/emerson-o-campos.github.io_pet-love-care_.png" width="400" alt="Pet Love Care"> | <img src="img/emerson-o-campos.github.io_portifolio_.png" width="400" alt="Portfólio"> |
 | Plataforma de agendamento para pet sitter com foco em usabilidade e responsividade. | Portfólio moderno com design inspirado em neon e minimalismo. |
 | 🔗 [Repositório](https://github.com/Emerson-O-Campos/pet-love-care) • [Demo](https://emerson-o-campos.github.io/pet-love-care/) | 🔗 [Repositório](https://github.com/Emerson-O-Campos/portifolio) • [Demo](https://emerson-o-campos.github.io/portifolio/) |
 
 | 📢 JRC Divulgação | ⚡ Eletubos |
 |------------------|-------------|
-| <img src="https://via.placeholder.com/400x200/2c3e50/ecf0f1?text=JRC+Divulga%C3%A7%C3%A3o" width="400"> | <img src="https://via.placeholder.com/400x200/1a1a2e/00d2ff?text=Eletubos" width="400"> |
+| <img src="img/emerson-o-campos.github.io_jrc-divulgacao_.png" width="400" alt="JRC Divulgação"> | <img src="img/emerson-o-campos.github.io_eletubos_.png" width="400" alt="Eletubos"> |
 | Site para serviços de divulgação de som, fortalecendo presença online. | Redesign do site institucional com foco em modernização visual. |
 | 🔗 [Repositório](https://github.com/Emerson-O-Campos/jrc-divulgacao) • [Demo](https://emerson-o-campos.github.io/jrc-divulgacao/) | 🔗 [Repositório](https://github.com/Emerson-O-Campos/eletubos) • [Demo](https://emerson-o-campos.github.io/eletubos/) |
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emerson-O-Campos&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff7a00&icon_color=ff7a00" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson-O-Campos&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff7a00" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emerson-O-Campos&theme=dark&hide_border=true&background=0d1117&stroke=ff7a00&ring=ff7a00&fire=ff7a00&currStreakLabel=ff7a00" />
-</p>
 
 ---
 
@@ -86,8 +73,14 @@ Olá! 👋 Sou **Emerson Campos**, estudante de **Engenharia da Computação na 
 ## 🌍 Idiomas
 
 - 🇧🇷 **Português** — Nativo
-- 🇺🇸 **Inglês** — Básico (em desenvolvimento contínuo)  
-  📘 *Cursando para leitura de documentações e ampliar oportunidades*
+- 🇺🇸 **Inglês** — Intermediário (em desenvolvimento contínuo)  
+  📘 *Leitura técnica, documentações e ampliando vocabulário para oportunidades globais*
+
+---
+
+## ⚡ Filosofia de desenvolvimento
+
+> *"Aquele que tem um porquê para viver, pode suportar quase qualquer como."* — **Friedrich Nietzsche**
 
 ---
 
@@ -112,12 +105,6 @@ Olá! 👋 Sou **Emerson Campos**, estudante de **Engenharia da Computação na 
   📍 Indaiatuba - SP<br>
   💬 Aberto a oportunidades, colaboração e networking
 </p>
-
----
-
-## ⚡ Minha filosofia
-
-> *“Consistência constrói habilidade. Habilidade constrói resultado.”*
 
 ---
 
